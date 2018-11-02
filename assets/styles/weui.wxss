@@ -840,9 +840,9 @@ icon {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-          align-items: center;
+  -webkit-box-align: top;
+  -webkit-align-items: top;
+          align-items: top;
 }
 .weui-media-box__thumb {
   width: 100%;
@@ -851,9 +851,9 @@ icon {
 }
 .weui-media-box__hd_in-appmsg {
   margin-right: .8em;
-  width: 60px;
-  height: 60px;
-  line-height: 60px;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
   text-align: center;
 }
 .weui-media-box__bd_in-appmsg {
